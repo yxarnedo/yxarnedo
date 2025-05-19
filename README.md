@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yxarnedo
 - 🌱 I’m currently learning agent based modeling
-- 📫 How to reach me: ymarnedo@up.edu.ph
+- 📫 How to reach me: yarnedo@nip.up.edu.ph
 - 😄 Pronouns: she/her
 
 <!---
